@@ -4,7 +4,7 @@
 
 ❤️ I enjoy web development and learning new technologies
 
-🛠️ I'm currently working on a JVM written in Rust with interpreting and WASM emitting capabilities
+🛠️ I'm currently working on a Rust-based replacement to Minecraft's renderer
 
 💬 If you're looking to chat, I'm very active on Discord @ Birb#0407
 
