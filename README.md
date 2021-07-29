@@ -1,6 +1,6 @@
 ## yo im birb
 
-✨ I'm experienced with Node.js, Lua, Java, React, and Rust!
+✨ I'm currently mostly programming in Rust, but I'm experienced in some other languages too
 
 ❤️ I enjoy web development and learning new technologies
 
