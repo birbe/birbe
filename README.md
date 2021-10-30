@@ -4,7 +4,7 @@
 
 ❤️ I enjoy web development and learning new technologies
 
-🛠️ I'm currently working on a Java Virtual Machine, written from scratch!
+🛠️ I'm currently working on wgpu-mc, an alternative rendering backend for Minecraft, written in Rust!
 
 💬 If you're looking to chat, I'm very active on Discord @ Birb#0407
 
