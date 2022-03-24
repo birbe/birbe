@@ -1,4 +1,4 @@
-## yo im birb
+## hello, im birb
 
 ✨ I'm currently mostly programming in Rust, but I'm experienced in some other languages too
 
